@@ -1,0 +1,6 @@
+H:\C # Workplace\DiagnosticBillManagementApp\DiagnosticBillManagementApp\bin\DiagnosticBillManagementApp.dll.config
+H:\C # Workplace\DiagnosticBillManagementApp\DiagnosticBillManagementApp\bin\DiagnosticBillManagementApp.dll
+H:\C # Workplace\DiagnosticBillManagementApp\DiagnosticBillManagementApp\bin\DiagnosticBillManagementApp.pdb
+H:\C # Workplace\DiagnosticBillManagementApp\DiagnosticBillManagementApp\obj\Debug\DiagnosticBillManagementApp.csprojResolveAssemblyReference.cache
+H:\C # Workplace\DiagnosticBillManagementApp\DiagnosticBillManagementApp\obj\Debug\DiagnosticBillManagementApp.dll
+H:\C # Workplace\DiagnosticBillManagementApp\DiagnosticBillManagementApp\obj\Debug\DiagnosticBillManagementApp.pdb
